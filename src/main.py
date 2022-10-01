@@ -36,4 +36,4 @@ print(project_meta)
 # in this tutorial we will focus on how to work with tags
 
 # Let's create tag meta that can be assigned to images and objects of any classes (without any restrictions)
-tag_meta1 = sly.TagMeta(name="Tag1", value)
+# tag_meta1 = sly.TagMeta(name="Tag1", value)
